@@ -1,4 +1,4 @@
-import pathlib from Path
+from pathlib import Path
 
 
 class Site:
